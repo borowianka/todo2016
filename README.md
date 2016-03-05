@@ -10,3 +10,8 @@ Następny akapit.
 
 ## Jak dodawać obrazki?
 
+Później to opiszę.
+
+![mój tygrysek](my_tiger.png)
+
+## Jak wpisywać tabelki? :imp:
