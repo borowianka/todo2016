@@ -2,9 +2,11 @@
 
 Poznajemy notację Markdown.
 
-## Jak wpisywać akapity
+## Jak wpisywać akapity?
 
 Normalnie, akapity oddzielamy pustym wierszem.
 
 Następny akapit.
+
+## Jak dodawać obrazki?
 
