@@ -40,3 +40,4 @@ int main() {
 1. [Ściąga z Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 
 #A do czego mi to potrzebne?
+bo człowiek uczy się całe życie. hahaha
