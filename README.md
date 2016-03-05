@@ -1,3 +1,10 @@
 # TI, 2015/16
 
-TODO
+Poznajemy notację Markdown.
+
+## Jak wpisywać akapity
+
+Normalnie, akapity oddzielamy pustym wierszem.
+
+Następny akapit.
+
