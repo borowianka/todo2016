@@ -1,6 +1,6 @@
 # TI, 2015/16
 
-Poznajemy notację Markdown.
+Poznajemy notację Markdown 😫
 
 ## Jak wpisywać akapity?
 
@@ -38,4 +38,3 @@ int main() {
 
 1. [Ściąga z Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 1. [Ściąga z Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
-
